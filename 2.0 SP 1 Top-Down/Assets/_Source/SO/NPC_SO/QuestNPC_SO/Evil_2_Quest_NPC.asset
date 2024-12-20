@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f947f3c8f86a4ca09f8d29f0a22ac58e, type: 3}
+  m_Name: Evil_2_Quest_NPC
+  m_EditorClassIdentifier: 
+  <NPCName>k__BackingField: Mark
+  <FirstPhrase>k__BackingField: hello traveler, I have a quest for ya
+  questLines:
+  - Hello, so my friend texted me that you have completed the mission in his area,
+    Good job!
+  - now can you fight these inhabitants in my place? I need you to liquidate 12 of
+    them this time
+  - So can you?
+  amountToKill: 12

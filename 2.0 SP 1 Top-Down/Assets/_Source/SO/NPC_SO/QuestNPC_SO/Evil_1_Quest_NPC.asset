@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f947f3c8f86a4ca09f8d29f0a22ac58e, type: 3}
+  m_Name: Evil_1_Quest_NPC
+  m_EditorClassIdentifier: 
+  <NPCName>k__BackingField: Hulio
+  <FirstPhrase>k__BackingField: hello traveler, I have a quest for ya
+  questLines:
+  - Oh hi, i've seen you crash on that shuttle. I can help you but you need firstly
+    to help me and my friends?
+  - can you fight these parasites on our planet? atleast 5 of them in this location
+    and I'll teleport you to the next location afterwards
+  - so you willing to help me for a ride back to your home?
+  amountToKill: 5
